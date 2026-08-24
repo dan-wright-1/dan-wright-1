@@ -1,7 +1,6 @@
 # Hi, I’m Danny
 - 🧪 an aspiring data scientist
 - ✏️ a Master's student in Information Systems
-- 🖊️ interested in business use cases
 
 <!---
 dan-wright-1/dan-wright-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
