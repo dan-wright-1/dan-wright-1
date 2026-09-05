@@ -1,6 +1,8 @@
 # Hi, I’m Danny
-- I care about keeping your data clean, usable, and scalable
-- I'm a Master's student in Information Systems
+As a technology consultant, I 
+- care about keeping your data clean, usable, and scalable
+- take ambiguous business requests and turn them into specified, tested, documented changes that ship to production.
+- drive implementation of automated workflows and enable data-backed decisions
 
 <!---
 dan-wright-1/dan-wright-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
